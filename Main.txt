@@ -1,0 +1,18 @@
+public class Main {
+
+
+    public static void main(String[] args) {
+
+        Vegetable v = new Potato();
+        System.out.println(v.toString());
+        Vegetable v1 = new Brinjal();
+        System.out.println(v1.toString());
+        Vegetable v2 = new Tomato();
+        System.out.println(v2);
+
+
+
+    }
+
+
+}

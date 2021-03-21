@@ -1,0 +1,15 @@
+
+public class Tomato extends Vegetable {
+
+    Tomato(){
+        color = "Red";
+    }
+
+
+
+
+
+    public String toString() {
+        return("The color of Tomato is: " +this.color);
+    }
+}

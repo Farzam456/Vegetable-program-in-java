@@ -1,0 +1,12 @@
+
+public class Brinjal extends Vegetable {
+
+    Brinjal(){
+        color = "Dark Purple";
+    }
+
+    public String toString() {
+        return("The color of Brinjal is: " +this.color);
+    }
+
+}

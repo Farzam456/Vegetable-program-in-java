@@ -1,0 +1,7 @@
+
+public abstract class Vegetable {
+
+    String color;
+    public  abstract String toString();
+
+}
